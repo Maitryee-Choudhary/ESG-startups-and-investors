@@ -4,7 +4,7 @@
 # Problem Statement
 > To develop a common collaboration platform for startups and investors to work cohesively to solve common problems.
 
-#Tech Stack:-
+# Tech Stack:-
 - React
 - MongoDB
 - Node.js
